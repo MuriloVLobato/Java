@@ -1,0 +1,1 @@
+Código para calcular salário com ajuste de porcentagem.
