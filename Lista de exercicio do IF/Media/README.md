@@ -1,0 +1,1 @@
+Este programa imprime a média aritmética de 6 numeros no total, divididos em grupos de 3 numeros, totalizando duas aritiméticas diferentes. A soma das duas aritiméticas. A maritimética das aritiméticas. 
